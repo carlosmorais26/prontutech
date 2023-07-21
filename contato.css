@@ -1,0 +1,68 @@
+.reclamações {
+    font-size: 30px;
+    color: black;
+    padding-left: 150px;
+    padding-right: 400px;
+    
+}
+h1 {
+    font-size: 45px;
+    color: black;
+    padding-left: 150px;
+    padding-right: 400px;
+    font-weight:bold ;
+}
+.nome{
+    font-size: 30px;
+    color: black;
+    padding-left: 150px;
+    padding-right: 400px;
+}
+.Caixa {
+    font-size: 30px;
+    color: black;
+    padding-left: 150px;
+    padding-right: 400px;
+}
+.jota {
+    width: 400px;
+    position: relative;
+    left: 8%;
+    background-color: #d9d9d9;
+}
+.Telefone{
+    color: black;
+    font-size: 40px;
+    position: absolute;
+    bottom: 400px;
+    left: 55%;
+}
+.numero {
+    color: #0e0e0e;
+    font-size: 40px;
+    position: absolute;
+    bottom: 350px;
+    left: 63%;
+}
+.Mail{
+    color: black;
+    font-size: 40px;
+    position: absolute;
+    bottom: 300px;
+    left: 55%;
+}
+.endereço {
+    color: black;
+    font-size: 40px;
+    position: absolute;
+    bottom: 250px;
+    left: 63%;
+}
+.botao {
+    position: relative;
+    left: 450px;
+    width: 100px;
+    bottom: 8px; 
+    border-radius: 5px 5px 5px;
+    margin: 10px;
+}
