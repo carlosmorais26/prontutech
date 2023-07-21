@@ -1,0 +1,44 @@
+.img_usuario{
+    margin-left: 520px;
+    margin-top: 45px;
+    max-width: 400px;
+    max-height: 400px;
+}
+.form-label{
+color: black;
+padding-left: 520px;
+padding-top: 25px;
+font-size: 20px;
+}
+.form-control{
+margin-left: 520px;    
+max-width: 800px;
+padding: 20px;
+}
+.img_botao{
+    margin-left: 700px;
+    max-width: 100px;
+    max-height: 100px;
+}
+.btn-primary{
+    margin-left: 520px;
+    margin-top: 25px;
+    margin-bottom: 50px;
+    padding: 30px;
+    padding-left: 200px;
+    padding-right: 200px;
+    background-color: white;
+    color: black;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px; 
+
+}
+
+.btn-primary:hover{
+    background-color: #FFD600;
+    color: black; 
+}
+#passwordHelp{
+    margin-left: 520px;
+}
